@@ -1,1 +1,1 @@
-alpine:3.19.1
+rancher/rancher-webhook:v0.4.6
