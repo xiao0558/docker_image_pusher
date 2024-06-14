@@ -1,1 +1,3 @@
 rancher/rancher-webhook:v0.4.6
+rancher/rancher-webhook:v0.4.7
+portainer/portainer-ce:2.19.5
