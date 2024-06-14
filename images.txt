@@ -1,6 +1,1 @@
-rancher/rancher-webhook:v0.4.6
-rancher/rancher-webhook:v0.4.7
-portainer/portainer-ce:2.19.5
-flink:1.11.0-scala_2.11
-corentinth/it-tools:2024.5.13-a0bc346
-shokohsc/jsoncrack:latest
+frooodle/s-pdf:0.26.0
