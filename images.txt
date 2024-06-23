@@ -1,1 +1,1 @@
-spark:3.5.0
+bitnami/spark:3.0.0
