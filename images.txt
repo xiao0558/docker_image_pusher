@@ -1,1 +1,1 @@
-apache/spark:3.5.0
+volcanosh/dist-mnist-tf-example:0.0.1
