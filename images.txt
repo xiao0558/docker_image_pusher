@@ -1,1 +1,1 @@
-gcr.io/kubeflow-ci/pytorch-dist-sendrecv-test:1.0
+volcanosh/example-tf:0.0.1
