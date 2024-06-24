@@ -1,1 +1,1 @@
-frolvlad/alpine-java:jdk8-slim
+mysql:5.7.44
