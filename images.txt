@@ -1,1 +1,1 @@
-volcanosh/example-tf:0.0.1
+frolvlad/alpine-java:jdk8-slim
