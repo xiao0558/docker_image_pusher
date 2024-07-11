@@ -1,1 +1,1 @@
-java:8u111
+centos:centos8.4.2105
