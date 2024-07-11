@@ -1,1 +1,1 @@
-natpierce/natpierce:latest
+frolvlad/alpine-java:jdk11-slim
