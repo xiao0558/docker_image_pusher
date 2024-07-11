@@ -1,1 +1,1 @@
-frolvlad/alpine-java:jdk11-slim
+java:8u111
