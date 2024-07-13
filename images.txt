@@ -1,5 +1,5 @@
 rancher/mirrored-nginx-ingress-controller-defaultbackend:1.5-rancher1
-rancher/mirrored-calico-node:v3.27.3
+
 rancher/longhornio-csi-node-driver-registrar:v2.3.0
 rancher/mirrored-neuvector-registry-adapter:0.1.1-s1
 rancher/calico-cni:v3.27.0-rancher1
