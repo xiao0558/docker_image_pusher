@@ -1,1 +1,1 @@
-tomcat:8.0
+rockylinux:9.3
