@@ -1,1 +1,1 @@
-rancher/system-agent-installer-rke2:v1.28.10-rke2r1
+rancher/rancher-webhook:v0.4.9
