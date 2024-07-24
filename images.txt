@@ -1,1 +1,1 @@
-rancher/rancher-webhook:v0.4.9
+busybox:1.36.1
