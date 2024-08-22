@@ -1,1 +1,1 @@
-cczl.harbor.domain/rancher/shell:v0.1.23
+rancher/shell:v0.1.23
