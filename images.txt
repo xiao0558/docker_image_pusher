@@ -1,1 +1,1 @@
-rancher/rancher-webhook:v0.4.10
+postgis/postgis:12-2.5
