@@ -1,1 +1,1 @@
-rancher/rancher:v2.10.3
+rancher/mirrored-pause:3.6
