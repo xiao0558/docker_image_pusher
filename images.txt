@@ -1,1 +1,1 @@
-rancher/mirrored-calico-typha:v3.29.1
+rancher/kubectl:v1.29.2
