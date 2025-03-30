@@ -1,1 +1,2 @@
 rancher/hardened-kubernetes:v1.31.7-rke2r1-build202503
+rancher/klipper-helm:v0.9.4-build20250113
