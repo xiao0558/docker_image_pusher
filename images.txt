@@ -1,1 +1,1 @@
-rancher/mirrored-calico-kube-controllers:v3.29.2
+rancher/system-agent:v0.3.11-suc
