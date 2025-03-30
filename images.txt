@@ -1,1 +1,1 @@
-rancher/mirrored-calico-node:v3.29.2
+rancher/mirrored-ingress-nginx-kube-webhook-certgen:v1.5.2
