@@ -1,1 +1,1 @@
-rancher/mirrored-calico-cni:v3.29.2
+rancher/mirrored-calico-typha:v3.29.2
