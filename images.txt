@@ -1,1 +1,1 @@
-rancher/mirrored-calico-operator:v1.36.5
+rancher/mirrored-calico-pod2daemon-flexvol:v3.29.2
