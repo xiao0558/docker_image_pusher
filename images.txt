@@ -1,1 +1,1 @@
-rancher/system-agent:v0.3.11-suc
+rancher/nginx-ingress-controller:v1.12.1-hardened1
