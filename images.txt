@@ -1,1 +1,1 @@
-rancher/nginx-ingress-controller:v1.12.1-hardened1
+rancher/system-agent-installer-rke2:v1.31.5-rke2r1
