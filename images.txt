@@ -1,1 +1,1 @@
-rancher/system-agent-installer-rke2:v1.31.5-rke2r1
+rancher/mirrored-ingress-nginx-kube-webhook-certgen:v1.5.0
