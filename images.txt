@@ -1,1 +1,1 @@
-openjdk:8
+apache/seatunnel:2.3.10
