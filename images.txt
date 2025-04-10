@@ -1,1 +1,1 @@
-apache/seatunnel:2.3.10
+bitnami/postgresql:13.18.0
