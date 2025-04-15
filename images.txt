@@ -1,3 +1,1 @@
-postgres:9.6
-kong:2.5.1-centos
-pantsel/konga:0.14.9
+apache/doris
