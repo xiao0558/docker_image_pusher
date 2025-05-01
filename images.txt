@@ -1,1 +1,1 @@
-rancher/hardened-etcd:v3.5.19-k3s1-build20250306
+rancher/hardened-kubernetes:v1.32.3-rke2r1-build20250312
