@@ -1,1 +1,1 @@
-rancher/rke2-cloud-provider:v1.32.0-rc3.0.20241220224140-68fbd1a6b543-build20250101
+rancher/klipper-helm:v0.9.4-build20250113
