@@ -1,1 +1,1 @@
-rancher/hardened-cluster-autoscaler:v1.9.0-build20241126
+rancher/nginx-ingress-controller:v1.12.1-hardened1
