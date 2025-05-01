@@ -1,1 +1,1 @@
-rancher/system-upgrade-controller:v0.15.2
+rancher/mirrored-cluster-api-controller:v1.9.5
