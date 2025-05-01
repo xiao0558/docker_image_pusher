@@ -1,1 +1,1 @@
-rancher/fleet:v0.12.2
+rancher/system-upgrade-controller:v0.15.2
