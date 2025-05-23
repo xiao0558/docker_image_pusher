@@ -1,1 +1,1 @@
-ghcr.io/wg-easy/wg-easy:latest
+liberica-openjdk-debian:21.0.5-cds
