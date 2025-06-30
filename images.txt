@@ -1,1 +1,1 @@
-rancher/hardened-etcd:v3.5.21-k3s1-build20250411
+rancher/klipper-helm:v0.9.5-build20250306
