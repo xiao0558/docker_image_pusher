@@ -1,1 +1,1 @@
-rancher/mirrored-grafana-grafana:11.5.5
+rancher/kuberlr-kubectl:v4.0.2
