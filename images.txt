@@ -1,1 +1,1 @@
-rancher/mirrored-kube-logging-fluentd:v1.16-4.10-full
+rancher/mirrored-kube-logging-config-reloader:v0.0.6
