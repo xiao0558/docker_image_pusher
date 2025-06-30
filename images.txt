@@ -1,4 +1,4 @@
-rancher/mirrored-calico-pod2daemon-flexvol:v3.33.0 rancher
-rancher/mirrored-calico-cni:v3.33.0 rancher
-rancher/mirrored-calico-typha:v3.33.0 rancher
-rancher/mirrored-calico-node:v3.33.0 rancher
+rancher/mirrored-calico-pod2daemon-flexvol:v3.33.0
+rancher/mirrored-calico-cni:v3.33.0
+rancher/mirrored-calico-typha:v3.33.0
+rancher/mirrored-calico-node:v3.33.0
