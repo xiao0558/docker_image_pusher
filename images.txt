@@ -1,1 +1,1 @@
-rancher/shell:v0.4.0
+rancher/shell:v0.4.1
