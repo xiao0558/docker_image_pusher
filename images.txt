@@ -1,3 +1,2 @@
 
-rancher/hardened-k8s-metrics-server:v0.7.2-build20250507
-rancher/rancher-agent:v2.11.3
+rancher/rancher/mirrored-grafana-grafana:11.5.5
