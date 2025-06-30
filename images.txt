@@ -1,2 +1,1 @@
-rancher/mirrored-fluent-fluent-bit:3.1.8
-rancher/mirrored-kube-logging-logging-operator:4.10.0
+rancher/mirrored-kube-logging-fluentd:v1.16-4.10-full
