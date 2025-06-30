@@ -1,1 +1,1 @@
-rancher/shell:v0.2.1
+rancher/rancher:v2.11.3
