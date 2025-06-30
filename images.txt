@@ -1,2 +1,1 @@
-
-rancher/rancher/mirrored-grafana-grafana:11.5.5
+rancher/mirrored-grafana-grafana:11.5.5
