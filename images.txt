@@ -1,1 +1,2 @@
-rancher/kuberlr-kubectl:v4.0.2
+rancher/mirrored-fluent-fluent-bit:3.1.8
+rancher/mirrored-kube-logging-logging-operator:4.10.0
