@@ -1,1 +1,1 @@
-nginx:1.19.0-alpine
+emqx:5.8.7
