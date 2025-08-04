@@ -1,1 +1,1 @@
-rancher/hardened-k8s-metrics-server:v0.7.2-build20250612
+rancher/hardened-cluster-autoscaler:v1.10.2-build20250611
