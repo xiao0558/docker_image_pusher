@@ -1,1 +1,1 @@
-rancher/nginx-ingress-controller:v1.12.2-hardened2
+rancher/hardened-coredns:v1.12.2-build20250611
