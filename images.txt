@@ -1,1 +1,1 @@
-rancher/klipper-helm:v0.9.7-build20250616
+rancher/mirrored-calico-operator:v1.38.1
