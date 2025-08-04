@@ -1,1 +1,1 @@
-rancher/mirrored-calico-typha:v3.30.1
+rancher/mirrored-calico-node:v3.30.1
