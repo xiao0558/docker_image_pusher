@@ -1,1 +1,1 @@
-rancher/rke2-runtime:v1.32.6-rke2r1
+rancher/hardened-etcd:v3.5.21-k3s1-build20250612
