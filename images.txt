@@ -1,1 +1,1 @@
-rancher/hardened-cluster-autoscaler:v1.10.2-build20250611
+rancher/mirrored-calico-kube-controllers:v3.30.1
