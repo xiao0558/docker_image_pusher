@@ -1,1 +1,1 @@
-rancher/mirrored-calico-kube-controllers:v3.30.1
+rancher/mirrored-ingress-nginx-kube-webhook-certgen:v1.5.3
