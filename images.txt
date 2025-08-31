@@ -1,1 +1,1 @@
-openjdk:21-jdk
+linuxserver/kodbox:latest
