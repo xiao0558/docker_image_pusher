@@ -1,1 +1,1 @@
-linuxserver/kodbox:latest
+redis:alpine
