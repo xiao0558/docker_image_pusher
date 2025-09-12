@@ -1,1 +1,1 @@
-codercom/code-server:latest
+paketobuildpacks/builder-noble-java-tiny:latest
