@@ -1,1 +1,1 @@
-erikdubbelboer/phpredisadmin:latest
+codercom/code-server:latest
