@@ -1,1 +1,1 @@
-flink:2.1.0-scala_2.12-java21
+gitlab/gitlab-ce:10.6.4-ce.0
