@@ -1,1 +1,4 @@
-kodcloud/kodbox:latest
+golang:1.23-alpine
+rabbitmq:3.12-management
+postgres:15-alpine
+valkey/valkey:7.2-alpine
