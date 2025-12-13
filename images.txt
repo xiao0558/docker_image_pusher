@@ -1,1 +1,1 @@
-tenable/nessus:10.11.0-ubuntu
+xrsec/awvs:latest
