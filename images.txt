@@ -1,1 +1,1 @@
-xrsec/awvs:latest
+secfa/docker-awvs
