@@ -1,5 +1,1 @@
-rancher/mirrored-longhornio-csi-resizer:v1.14.0-20251030
-rancher/mirrored-longhornio-csi-snapshotter:v8.4.0-20251030
-rancher/mirrored-longhornio-csi-node-driver-registrar:v2.15.0-20251030
-rancher/mirrored-longhornio-livenessprobe:v2.17.0-20251030
-rancher/mirrored-longhornio-csi-node-driver-registrar:v2.15.0-20251030
+rancher/mirrored-longhornio-longhorn-instance-manager:v1.10.1
