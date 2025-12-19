@@ -1,1 +1,1 @@
-rancher/mirrored-longhornio-csi-attacher:v4.10.0-20251030
+rancher/mirrored-longhornio-csi-provisioner:v5.3.0-20251030
