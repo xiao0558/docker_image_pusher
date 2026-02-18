@@ -1,1 +1,1 @@
-redis:7-alpine
+justsong/one-api:latest
