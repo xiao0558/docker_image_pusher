@@ -1,1 +1,1 @@
-redis:7-alpine
+stawky/m3e-large-api:latest
