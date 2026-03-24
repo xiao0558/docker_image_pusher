@@ -1,1 +1,1 @@
-stawky/m3e-large-api:latest
+vllm/vllm-openai:latest
